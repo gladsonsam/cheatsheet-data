@@ -3,13 +3,13 @@
     "id": 1776495693780,
     "name": "ELEN2000 Test 1",
     "createdAt": "2026-04-18T07:01:33.780Z",
-    "updatedAt": "2026-04-18T07:09:50.452Z",
+    "updatedAt": "2026-04-18T09:31:49.130Z",
     "toolbarSettings": {
       "columns": 6,
       "fontSize": 6,
-      "padding": 5,
-      "gap": 1,
-      "lineHeight": 1.2,
+      "padding": 4,
+      "gap": 3,
+      "lineHeight": 1,
       "orientation": "landscape",
       "theme": "academic",
       "fontFamily": "inter"
