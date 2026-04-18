@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1776495290387,
+    "name": "Untitled",
+    "createdAt": "2026-04-18T06:54:50.387Z",
+    "updatedAt": "2026-04-18T06:56:55.621Z",
+    "toolbarSettings": {
+      "columns": 5,
+      "fontSize": 8,
+      "padding": 5,
+      "gap": 1,
+      "lineHeight": 1.2,
+      "orientation": "landscape",
+      "theme": "academic",
+      "fontFamily": "inter"
+    }
+  }
+]
